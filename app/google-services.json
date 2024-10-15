@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594781536328",
+    "project_id": "multimedia-9ae0b",
+    "storage_bucket": "multimedia-9ae0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594781536328:android:4cb992bc5efb67843c587d",
+        "android_client_info": {
+          "package_name": "com.uploadretrofeit.retrofeitupload.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3Xx0Wdf6qy4VeekyaeauQaymG9qZfWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
